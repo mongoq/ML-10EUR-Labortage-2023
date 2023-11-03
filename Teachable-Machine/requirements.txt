@@ -1,5 +1,4 @@
 argparse
 numpy
 opencv-python
-protobuf
-tensorflow
+tensorflow-cpu
