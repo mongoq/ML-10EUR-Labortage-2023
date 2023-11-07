@@ -13,3 +13,5 @@ source ./bin/activate
 pip install -r requirements.txt
 
 This will use tensorflow-cpu and will not complain about a missing Nvidia GPU.
+
+Enclosed keras_model.h5 and labels.txt will detect classes - santa, cup and empty.
