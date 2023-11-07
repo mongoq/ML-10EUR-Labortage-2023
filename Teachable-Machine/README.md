@@ -2,7 +2,7 @@
 
 https://teachablemachine.withgoogle.com/train/image
 
-Take pictures, train, download as TensorFLow Keras model, unzip keras_model.h5 and labels.txt to folder.
+Take pictures, train, download as TensorFLow Keras model, unzip files keras_model.h5 and labels.txt to folder.
 
 Run: 
 
