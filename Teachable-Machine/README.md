@@ -1,8 +1,8 @@
 # To create the ML model
 
-https://teachablemachine.withgoogle.com/train/image ... 
+https://teachablemachine.withgoogle.com/train/image
 
-Take pictures, train, download as TensorFLow Keras model, unzip to folder.
+Take pictures, train, download as TensorFLow Keras model, unzip keras_model.h5 and labels.txt to folder.
 
 Run: 
 
