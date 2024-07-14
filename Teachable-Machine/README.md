@@ -1,4 +1,4 @@
-# To create the ML model
+# To create the ML model:
 
 https://teachablemachine.withgoogle.com/train/image
 
